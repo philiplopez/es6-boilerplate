@@ -1,0 +1,16 @@
+---
+  ecmaFeatures:
+    modules: true
+  env: 
+    es6: true
+    node: true
+    browser: true
+    mocha: true
+  rules:
+    quotes: 
+      - 2
+      - "double"
+    brace-style:
+      - 2
+      - "stroustrup"
+    no-var: 2
